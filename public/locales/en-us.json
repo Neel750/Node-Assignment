@@ -1,0 +1,5 @@
+{
+    "EmailRequired": "Email is required!",
+    "PasswordRequired": "Password is required!",
+    "CarIdRequired": "Car is required!"
+}

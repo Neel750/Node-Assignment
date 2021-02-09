@@ -1,0 +1,34 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Token, JWT , Assifnment",
+  "main": "./app.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neel750/Node-Assignment.git"
+  },
+  "author": "Neel.Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neel750/Node-Assignment/issues"
+  },
+  "homepage": "https://github.com/Neel750/Node-Assignment#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4",
+    "i18n-2": "^0.7.3",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "lcid": "^3.1.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "pg": "^8.5.1",
+    "validator": "^13.5.2"
+  }
+}
